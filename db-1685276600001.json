@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "meenaxi",
+      "salary": "150000",
+      "company": "tyss",
+      "id": 2
+    },
+    {
+      "name": "guru",
+      "salary": "150000",
+      "company": "info",
+      "id": 5
+    },
+    {
+      "name": "hrithik",
+      "salary": "25000",
+      "company": "bosch",
+      "id": 7
+    },
+    {
+      "name": "nikki",
+      "salary": "25000",
+      "company": "nobroker",
+      "id": 9
+    },
+    {
+      "name": "Pran",
+      "salary": "150000",
+      "company": "nqt",
+      "id": 10
+    },
+    {
+      "name": "RD",
+      "salary": "25000",
+      "company": "emproto",
+      "id": 11
+    }
+  ]
+}

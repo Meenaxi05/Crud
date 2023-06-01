@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "meenaxi",
+      "salary": "150000",
+      "company": "tyss",
+      "id": 2
+    },
+    {
+      "name": "Rahul",
+      "salary": "15000",
+      "company": "info",
+      "id": 3
+    },
+    {
+      "name": "guru",
+      "salary": "20000",
+      "company": "tcs",
+      "id": 5
+    },
+    {
+      "name": "hrithik",
+      "salary": "25000",
+      "company": "bosch",
+      "id": 7
+    },
+    {
+      "name": "nikki",
+      "salary": "25000",
+      "company": "nobroker",
+      "id": 9
+    }
+  ]
+}
